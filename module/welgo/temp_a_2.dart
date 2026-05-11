@@ -1,0 +1,24 @@
+library welgo;
+
+export 'interface.dart';
+export 'light_handle.dart';
+export 'env/app_env.dart';
+export 'core/router/app_routes.dart';
+export 'core/theme/app_theme.dart';
+export 'core/providers/app_providers.dart';
+export 'core/models/user_data.dart';
+export 'core/models/ingredient_analysis.dart';
+export 'core/services/ai_service.dart';
+export 'core/services/storage_service.dart';
+export 'core/services/purchase_service.dart';
+export 'core/managers/coins_manager.dart';
+export 'core/widgets/common_widgets.dart';
+export 'features/login/login_page.dart';
+export 'features/main/main_page.dart';
+export 'features/home/home_page.dart';
+export 'features/result/result_page.dart';
+export 'features/history/history_page.dart';
+export 'features/profile/profile_page.dart';
+export 'features/coin_store/coin_store_page.dart';
+export 'features/agreement/agreement_page.dart';
+export 'features/profile/feedback_page.dart';
